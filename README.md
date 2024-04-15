@@ -39,3 +39,4 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### `Do not forget to export api keys to next fields WEATHER_API_KEY AND X-RapidAPI-Key`
 ### `You can obtain keys from https://api.openweathermap.org/data/2.5 AND https://wft-geo-db.p.rapidapi.com/v1/geo`
+![Снимок экрана 2024-04-15 115234](https://github.com/zxc-daun/Mern_Lab8/assets/102352117/ed333bbf-b990-4c6c-9999-425a438f6091)
